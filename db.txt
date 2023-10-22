@@ -1,0 +1,4 @@
+1|admin|admin@example.com|admin_password|admin
+2|manager|manager@example.com|manager_password|manager
+3|user1|user1@example.com|user1_password|user
+4|user2|user2@example.com|user2_password|user
